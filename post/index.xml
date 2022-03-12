@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts - 万匠游戏</title>
+    <link>https://affiche.wngjoy.cn/post/</link>
+    <description>Recent content in Posts on 万匠游戏</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+        <atom:link href="https://affiche.wngjoy.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>【当代人生预约开启】</title>
+      <link>https://affiche.wngjoy.cn/post/secondlife/0312/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://affiche.wngjoy.cn/post/secondlife/0312/</guid>
+      <description>快来体验激情澎湃的赛车新生吧</description>
+    </item>
+  </channel>
+</rss>

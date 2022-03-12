@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags - 万匠游戏</title>
-    <link>https://affiche.wngjoy.cn/tags/</link>
+    <link>https://affiche.wingjoy.cn/tags/</link>
     <description>Recent content in Tags on 万匠游戏</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-        <atom:link href="https://affiche.wngjoy.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://affiche.wingjoy.cn/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

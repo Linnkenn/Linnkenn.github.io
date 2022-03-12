@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>万匠游戏</title>
-    <link>https://affiche.wngjoy.cn/</link>
+    <link>https://affiche.wingjoy.cn/</link>
     <description>Recent content on 万匠游戏</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-        <atom:link href="https://affiche.wngjoy.cn/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://affiche.wingjoy.cn/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Posts</title>
-      <link>https://affiche.wngjoy.cn/post/</link>
+      <link>https://affiche.wingjoy.cn/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://affiche.wngjoy.cn/post/</guid>
+      <guid>https://affiche.wingjoy.cn/post/</guid>
       <description></description>
     </item>
   </channel>
